@@ -1,3 +1,12 @@
+> **Project Status: Archived**
+> 
+> This repository is no longer actively maintained.
+> The code remains available for anyone who wishes to study it, fork it, or build upon it.
+> Issues and pull requests will not be reviewed.
+>
+> While no longer maintained, the project reached a near feature-complete state during its active development phase, with most of the remaining work being polish.
+> It may still serve as a useful foundation for future window manager development.
+
 <div align="center">
   <h1>Japokwm</h1>
   <p>
